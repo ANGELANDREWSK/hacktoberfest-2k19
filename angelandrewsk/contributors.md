@@ -1,1 +1,1 @@
-Completed Hacktoberfest challenge.
+Done with Hacktoberfest challenge.
